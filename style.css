@@ -1,0 +1,94 @@
+.main{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: auto;
+    margin: 150px auto;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* padding: -10px; */
+}
+
+.input{
+    margin: 8px;
+    text-align: center;
+}
+
+.input:focus{
+    outline-color: #7633fa;
+}
+
+.card-body{
+    /* border: 1px solid black; */
+    width: 225px;
+    margin: 0 auto;
+    box-shadow: 20px;
+}
+
+.btn, a{
+    /* border: 1px solid #7633fa; */
+    margin: 0px 50px;
+    width: 100px;
+    background-color: #7633fa;
+    outline-color: #7633fa;
+}
+
+/* Navbar */
+
+.navbar{
+    border: 1px solid black;
+    padding: 1px;
+}
+
+.blogging{
+    font-size: x-large;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.signup-heading{
+    font-size: 50px;
+    /* border: 1px solid; */
+    width: 200px;
+    margin: 100px auto -100px auto;
+}
+
+/* ===================== login.html ================= */
+
+.login-button{
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    margin: 0 60px;
+    width: 350px;
+    border: 1px solid black;
+}
+
+.bttn{
+    width: 200px;
+    background-color: #fff;
+    border: none;
+}
+
+#blogs-card{
+    width: 800px;
+    /* border: 1px solid blue; */
+    text-align: center;
+    margin: 0 auto;
+}
+
+.anchor{
+    width: 100px;
+    /* border: 1px solid black; */
+    text-decoration: none;
+    background-color: #fff;
+    margin: 0 auto;
+}
+img{
+    width: 100px;
+}
+
+.dashboard{
+    width: fit-content;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+}
